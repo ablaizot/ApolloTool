@@ -12,5 +12,5 @@
 	branch = bugfix/print_pointer
 [submodule "plugins/ApolloSM_plugin"]
 	path = plugins/ApolloSM_plugin
-	url = https://github.com/apollo-lhc/ApolloSM_plugin.git
+	url = https://gitlab.com/apollo-lhc/software/ApolloSM_plugin.git
 	branch = develop
