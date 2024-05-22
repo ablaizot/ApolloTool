@@ -9,7 +9,7 @@
 [submodule "BUTool"]
 	path = BUTool
 	url = https://gitlab.com/BU-EDF/BUTool/BUTool.git
-	branch = bugfix/print_pointer
+	branch = feature/herd
 [submodule "plugins/ApolloSM_plugin"]
 	path = plugins/ApolloSM_plugin
 	url = https://github.com/apollo-lhc/ApolloSM_plugin.git
